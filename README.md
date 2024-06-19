@@ -8,7 +8,7 @@
 
 ## Acerca de mí
 
-Soy un Administrador de Análisis de Datos en **EPA Digital**, con una sólida formación en Administración y una pasión por el marketing digital. Mi trabajo se centra en utilizar análisis de datos avanzados para optimizar el rendimiento de las campañas publicitarias y mejorar la toma de decisiones estratégicas.
+Soy un Administrador de Análisis de Datos en **EPA Digital**, con una sólida formación en Datos y una pasión por el marketing digital. Mi trabajo se centra en utilizar análisis de datos avanzados para optimizar el rendimiento de las campañas publicitarias y mejorar la toma de decisiones estratégicas.
 
 ---
 
