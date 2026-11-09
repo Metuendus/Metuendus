@@ -1,84 +1,26 @@
-# José Carlos Corona Chablé
+# José Carlos Corona
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/josecarloscorona)](https://www.linkedin.com/in/josecarloscorona/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/Metuendus)](https://github.com/Metuendus)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jcarlos_corona)](https://x.com/jcarlos_corona)
+**AI & Automation Lead en EPA.Digital · Ciudad de México**
 
----
+Construyo soluciones agénticas para marketing que los equipos sí usan: servidores MCP, RAG y agentes en producción sobre Google Cloud. Más de 10 años en marketing y 7 en datos.
 
-## Acerca de mí
+Portafolio: [josecarloscorona.dev](https://josecarloscorona.dev) · [English](https://josecarloscorona.dev/en/)
 
-Soy un Administrador de Análisis de Datos en **EPA Digital**, con una sólida formación en Datos y una pasión por el marketing digital. Mi trabajo se centra en utilizar análisis de datos avanzados para optimizar el rendimiento de las campañas publicitarias y mejorar la toma de decisiones estratégicas.
+## Código que puedes leer
 
----
+- [**fundamentum**](https://github.com/Metuendus/fundamentum): mi chasis en Python para apps con agentes. ADK, Gemini y Claude vía Vertex AI, costo medido por llamada, guardrails y evals.
+- [**portafolio**](https://github.com/Metuendus/portafolio): el sitio (Astro) y su evaluador de encaje en [`agente/`](https://github.com/Metuendus/portafolio/tree/main/agente): dos llamadas a un modelo, comprobaciones por código y cada corrida grabada con su costo y su latencia.
 
-## Habilidades
+## En qué trabajo
 
-- **Lenguajes de Programación**: R, Python, SQL
-- **Análisis de Datos**: R (ggplot, tidyverse), Python (pandas, numpy, matplotlib, seaborn), Looker Studio
-- **Desarrollo Web**: HTML, CSS, JavaScript
-- **Herramientas de Marketing Digital**: Google Analytics, Google Ads, Facebook Ads, Bing Ads
-- **Optimización de Tasas de Conversión (CRO)**: Implementación de tácticas basadas en datos
-- **Visualización de Datos**: Creación de informes y dashboards interactivos
-- **Idiomas**: Español (nativo), Inglés (profesional), Italiano (intermedio)
+- **Osaka**, el servidor MCP de medios de la agencia: hice la primera versión y hoy soy su product owner. [Caso](https://josecarloscorona.dev/proyectos/mcp/)
+- **Librería de Prompts** y **Hopper**, que diseñé y construí. [Librería](https://josecarloscorona.dev/proyectos/prompts/) · [Hopper](https://josecarloscorona.dev/proyectos/dash/)
+- Por diversión, apps con agentes como **Iterum**, **Domi** y **Vocatio**. [Proyectos](https://josecarloscorona.dev/proyectos/)
 
----
+## Con qué
 
-## Experiencia Profesional
-
-### **EPA Digital**
-**Administrador de Análisis de Datos**  
-*Septiembre 2020 - Presente*  
-Ciudad de México, México
-
-- Lidero el análisis y la interpretación de datos de campañas publicitarias en diversas plataformas digitales.
-- Desarrollo reportes y visualizaciones utilizando herramientas como R, ggplot, tidyverse, y Looker Studio.
-- Implemento estrategias de mejora continua para maximizar el ROAS y optimizar la asignación de presupuesto en campañas publicitarias.
-- Colaboro estrechamente con los equipos de marketing y ventas para alinear las estrategias de datos con los objetivos comerciales de los clientes.
-
-**Analista de Datos de Marketing**  
-*Noviembre 2019 - Septiembre 2020*  
-Polanco Reforma, Distrito Federal, México
-
-- Identificación de KPI's del mercado e interpretación de los resultados para apoyar a los gerentes de marketing.
-- Elaboración de informes detallados y recomendaciones basadas en datos.
-
-**Conversion Rate Optimization Expert**  
-*Enero 2019 - Noviembre 2019*  
-Ciudad de México y alrededores, México
-
-- Implementación de tácticas para optimizar la tasa de conversión de las campañas.
-- Desarrollo de estrategias de marketing basadas en análisis de datos.
-
-### Proyectos Destacados
-
-- **Análisis de Eficiencia de Campañas Publicitarias**: Utilización de R y Python para analizar y optimizar la eficiencia de campañas publicitarias en múltiples plataformas.
-- **Dashboard Interactivo para Seguimiento de KPIs**: Desarrollo de un dashboard interactivo utilizando Looker Studio para monitorear los KPIs críticos en tiempo real.
-- **Optimización de Tasas de Conversión**: Implementación de estrategias basadas en datos para mejorar las tasas de conversión, resultando en un incremento del 20% en la eficiencia de las campañas.
-
----
-
-## Educación
-
-**Licenciatura en Administración**  
-Facultad de Contaduría y Administración, UNAM  
-*2012 - 2015*
-
----
-
-## Certificaciones
-
-- Certificado de Posesión de Idioma Inglés Nivel Intermedio
-- Data Analyst with Python Track
-
----
+MCP · Claude · Gemini · Vertex AI · ADK · RAG · evals · Python · TypeScript · SQL · BigQuery · Next.js · Cloud Run · Terraform
 
 ## Contacto
 
-- **Email**: [josecarlos.corona@outlook.com](mailto:josecarlos.corona@outlook.com)
-- **LinkedIn**: [linkedin.com/in/josecarloscorona](https://www.linkedin.com/in/josecarloscorona/)
-- **GitHub**: [github.com/Metuendus](https://github.com/Metuendus)
-
----
-
-Gracias por visitar mi perfil. Siempre estoy buscando nuevas oportunidades y desafíos en el campo del análisis de datos y marketing digital. No dudes en contactarme para colaboraciones o simplemente para conectar.
+hola@josecarloscorona.dev · [LinkedIn](https://www.linkedin.com/in/josecarloscorona/)
