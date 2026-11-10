@@ -1,6 +1,6 @@
 # José Carlos Corona
 
-**AI & Automation Lead en EPA.Digital · Ciudad de México**
+**AI & Automation Lead en EPA Digital · Ciudad de México**
 
 Construyo soluciones agénticas para marketing que los equipos sí usan: servidores MCP, RAG y agentes en producción sobre Google Cloud. Más de 10 años en marketing y 7 en datos.
 
